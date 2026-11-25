@@ -1,69 +1,71 @@
-# Генетика метаболізму етанолу: від п'яних мавп до наномедицини
+# The Genetics of Ethanol Metabolism: From Drunken Monkeys to Nanomedicine
 
-> Есе оглядового характеру. Не є медичною порадою.
+[Українська](README.uk.md) | **English**
 
-## Вступ
+> An overview essay. Not medical advice.
 
-Етанол — одна з небагатьох психоактивних речовин, яку людина споживає тисячі років, а її предки, ймовірно, зустрічали ще раніше, у перезрілих плодах. Реакція організму на алкоголь сильно різниться між людьми, і значною мірою ця різниця закладена в генах. Ця стаття розглядає, які гени беруть участь у розщепленні етанолу, як вони з'явилися в еволюції, чим пояснюються відмінності між популяціями та чи можуть сучасні біотехнології, зокрема наночастинки, колись виправляти генетичні дефекти цього шляху.
+## Introduction
 
-## 1. Двоетапний шлях розщеплення
+Ethanol is one of the few psychoactive substances that humans have consumed for thousands of years, and our ancestors probably encountered it much earlier, in overripe fruit. Reactions to alcohol vary widely between people, and much of that variation is written in our genes. This essay looks at which genes take part in breaking down ethanol, how they arose in evolution, what explains differences between populations, and whether modern biotechnology, nanoparticles in particular, could one day correct genetic defects in this pathway.
 
-Основний шлях складається з двох послідовних реакцій:
+## 1. A two-step breakdown pathway
 
-**етанол → ацетальдегід → ацетат**
+The main pathway consists of two consecutive reactions:
 
-1. **Алкогольдегідрогенази (гени ADH1B, ADH1C, ADH4)** окиснюють етанол до ацетальдегіду. Ця реакція відбувається переважно в печінці.
-2. **Альдегіддегідрогеназа 2 (ген ALDH2)** у мітохондріях перетворює ацетальдегід на ацетат, який організм далі використовує як джерело енергії.
+**ethanol → acetaldehyde → acetate**
 
-Ключова деталь: проміжний продукт, ацетальдегід, значно токсичніший за сам етанол. Він викликає почервоніння, нудоту, прискорене серцебиття, а також класифікований як канцероген. Тому безпечність усього шляху залежить від другого етапу, а не лише від швидкості першого.
+1. **Alcohol dehydrogenases (genes ADH1B, ADH1C, ADH4)** oxidize ethanol to acetaldehyde. This happens mainly in the liver.
+2. **Aldehyde dehydrogenase 2 (gene ALDH2)** converts acetaldehyde into acetate inside mitochondria. The body then uses acetate as an energy source.
 
-Допоміжні шляхи мають менше значення за помірних доз. CYP2E1 бере участь у мікросомальному окисненні етанолу, і його активність зростає за тривалого вживання алкоголю, що супроводжується утворенням активних форм кисню. Каталаза також здатна окиснювати етанол, але її внесок мінімальний.
+The key detail is that the intermediate, acetaldehyde, is far more toxic than ethanol itself. It causes flushing, nausea and a racing heart, and it is classified as a carcinogen. The safety of the whole pathway therefore depends on the second step, not only on the speed of the first.
 
-## 2. Варіанти генів і популяційні відмінності
+Auxiliary pathways matter less at moderate doses. CYP2E1 takes part in microsomal ethanol oxidation, and its activity rises with long-term heavy drinking, producing reactive oxygen species along the way. Catalase can also oxidize ethanol, but its contribution is minimal.
 
-- **ADH1B\*2** (rs1229984) кодує швидший фермент і поширений у Східній Азії. Ацетальдегід утворюється швидко.
-- **ADH1B\*3** трапляється в частини африканських популяцій і також підвищує швидкість першого етапу.
-- **ALDH2\*2** (rs671, Glu504Lys) майже вимикає фермент. Мутація діє домінантно, оскільки фермент складається з чотирьох субодиниць, і навіть одна дефектна субодиниця порушує роботу всього комплексу.
+## 2. Gene variants and population differences
 
-Наслідком ALDH2\*2 є так зване «азійське почервоніння» після алкоголю. Цей же варіант пов'язаний із підвищеним ризиком раку стравоходу за регулярного вживання алкоголю. Парадоксально, але в багатьох носіїв сильна неприємна реакція слугує природним захистом від надмірного вживання.
+- **ADH1B\*2** (rs1229984) encodes a faster enzyme and is common in East Asia. Acetaldehyde is produced quickly.
+- **ADH1B\*3** occurs in some African populations and also speeds up the first step.
+- **ALDH2\*2** (rs671, Glu504Lys) nearly switches the enzyme off. The mutation is dominant: the enzyme is built from four subunits, and even one defective subunit disrupts the whole complex.
 
-## 3. Еволюційний вимір: гіпотеза «п'яної мавпи»
+The consequence of ALDH2\*2 is the so-called "Asian flush" after drinking. The same variant is linked to a higher risk of esophageal cancer with regular alcohol use. Paradoxically, for many carriers the unpleasant reaction acts as a natural safeguard against heavy drinking.
 
-Дозрілі плоди містять невеликі кількості етанолу, що утворюється внаслідок діяльності дріжджів. Дослідження 2015 року (Carrigan та співавтори) показало, що приблизно 10 мільйонів років тому у спільного предка людини, шимпанзе і горили в гені ADH4 виникла мутація (A294V). Вона збільшила здатність ферменту окиснювати етанол приблизно в 40 разів. Часова збіжність із переходом предків до наземного способу життя, коли довелося підбирати перезрілі плоди з землі, лягла в основу гіпотези «п'яної мавпи», яку розвиває Роберт Дадлі.
+## 3. The evolutionary angle: the "drunken monkey" hypothesis
 
-Це гіпотеза, а не встановлений факт, але вона правдоподібно пояснює, чому система розщеплення етанолу в приматів виникла задовго до появи ферментованих напоїв.
+Ripe fruit contains small amounts of ethanol produced by yeast. A 2015 study (Carrigan and colleagues) showed that about 10 million years ago, in the common ancestor of humans, chimpanzees and gorillas, a mutation arose in the ADH4 gene (A294V). It increased the enzyme's ability to oxidize ethanol roughly 40-fold. The timing coincides with ancestors shifting to a more ground-dwelling life, picking up overripe fruit from the forest floor, and this underlies the "drunken monkey" hypothesis developed by Robert Dudley.
 
-## 4. Загальний принцип: ланцюги з кількох генів
+This is a hypothesis, not an established fact, but it plausibly explains why the ethanol-processing system in primates arose long before fermented drinks existed.
 
-Шлях етанолу — лише один із прикладів метаболічних ланцюгів, де працюють кілька генів послідовно:
+## 4. A general principle: multi-gene chains
 
-| Речовина | Гени | Приклад порушення |
+The ethanol pathway is only one example of a metabolic chain in which several genes work in sequence:
+
+| Substance | Genes | Example disorder |
 |---|---|---|
-| Галактоза | GALK1 → GALT → GALE | Галактоземія |
-| Фруктоза | KHK, ALDOB | Спадкова непереносимість фруктози |
-| Фенілаланін | PAH + гени кофактора (GCH1, PTS) | Фенілкетонурія |
-| Кофеїн | CYP1A2, AHR, ADORA2A | Відмінності у швидкості розщеплення та чутливості |
-| Лактоза | LCT, MCM6 (регуляторна ділянка) | Лактазна недостатність |
-| Варфарин | CYP2C9, VKORC1 | Різна потрібна доза |
+| Galactose | GALK1 → GALT → GALE | Galactosemia |
+| Fructose | KHK, ALDOB | Hereditary fructose intolerance |
+| Phenylalanine | PAH + cofactor genes (GCH1, PTS) | Phenylketonuria |
+| Caffeine | CYP1A2, AHR, ADORA2A | Differences in clearance speed and sensitivity |
+| Lactose | LCT, MCM6 (regulatory region) | Lactase non-persistence |
+| Warfarin | CYP2C9, VKORC1 | Different required dose |
 
-Спільна закономірність: кожна ланка може мати свої варіанти, тому комбінація генотипів визначає індивідуальну відповідь на їжу, напої та ліки. Це основа фармакогенетики й персоналізованої медицини.
+The common pattern: each link in the chain can carry its own variants, so the combination of genotypes determines an individual's response to food, drink and medication. This is the basis of pharmacogenetics and personalized medicine.
 
-## 5. Чи можуть наноліки виправити генетичний дефект?
+## 5. Could nanomedicine fix a genetic defect?
 
-Теоретично так, і ця область розвивається. Основні підходи:
+In theory, yes, and the field is developing. The main approaches:
 
-- **Доставка ферментів у наночастинках.** У 2017 році були описані нанокапсули з ферментами, що знижували рівень етанолу в крові мишей. Для людини ця технологія не застосовується.
-- **мРНК у ліпідних наночастинках (LNP).** Такі частинки накопичуються переважно в печінці й можуть тимчасово забезпечити клітини інструкцією для синтезу потрібного білка. Для окремих рідкісних метаболічних хвороб це вже перебуває в клінічних випробуваннях.
-- **Редагування генів.** Доставка інструментів CRISPR до печінки для корекції самого варіанта гена. Для ALDH2 це залишається теоретичною можливістю.
-- **Малі молекули-активатори.** Сполука Alda-1 підвищує активність ALDH2, зокрема дефектного варіанта, але залишається дослідницьким інструментом.
+- **Enzyme delivery in nanoparticles.** Nanocapsules containing enzymes that lowered blood ethanol in mice have been described. The technology is not used in humans.
+- **mRNA in lipid nanoparticles (LNPs).** These particles accumulate mainly in the liver and can temporarily instruct cells to produce a needed protein. For some rare metabolic diseases this is already in clinical trials.
+- **Gene editing.** Delivering CRISPR tools to the liver to correct the variant itself. For ALDH2 this remains a theoretical possibility.
+- **Small-molecule activators.** The compound Alda-1 raises ALDH2 activity, including that of the defective variant, but it remains a research tool.
 
-Основні виклики: точність адресності, імунна відповідь на чужорідні білки й носії, ризик небажаних змін ДНК при редагуванні, а також співвідношення ризику і користі. Для спадкових хвороб, що загрожують життю, такі втручання виправдані. Для зміни алкогольної толерантності їхні ризики навряд чи виправдані.
+Main challenges: targeting precision, immune responses to foreign proteins and carriers, the risk of unintended DNA changes with editing, and the balance of risk and benefit. For life-threatening inherited diseases such interventions are justified. For altering alcohol tolerance their risks are unlikely to be.
 
-## Висновок
+## Conclusion
 
-Розщеплення етанолу — наочний приклад того, як невелика кількість генів визначає помітні відмінності між людьми та популяціями, а еволюційна історія цього шляху сягає мільйонів років і пов'язана з харчуванням предків. Сучасні нанотехнології відкривають теоретичні шляхи для виправлення генетичних дефектів метаболізму, але для більшості станів вони залишаються на дослідницькій стадії. Для носіїв варіанта ALDH2\*2 найрозумнішою стратегією наразі лишається обмеження вживання алкоголю, а не пошук обхідних шляхів.
+Ethanol breakdown is a clear example of how a small number of genes produces noticeable differences between individuals and populations, and the evolutionary history of this pathway reaches back millions of years and is tied to the diet of our ancestors. Modern nanotechnology opens theoretical routes to correcting genetic defects of metabolism, but for most conditions they remain at the research stage. For carriers of the ALDH2\*2 variant, the sensible strategy today is still to limit alcohol, not to look for workarounds.
 
-## Джерела та подальше читання
+## Sources and further reading
 
 - Carrigan M. A. et al. *Hominids adapted to metabolize ethanol long before human-directed fermentation.* PNAS, 2015.
 - Dudley R. *The Drunken Monkey: Why We Drink and Abuse Alcohol.* University of California Press, 2014.
